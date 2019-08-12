@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resized_smoking</folder>
+	<filename>000040-2.jpg</filename>
+	<path>/Users/siddharthmehta/Desktop/python-workspace/Capstone Project/Data/data/Resized_smoking/000040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>159</ymin>
+			<xmax>144</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>
