@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>bb0008.jpg</filename>
+	<path>C:\Users\Abhijeet Kharade\Desktop\NewData\temp\bb0008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>124</ymin>
+			<xmax>214</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>129</ymin>
+			<xmax>130</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

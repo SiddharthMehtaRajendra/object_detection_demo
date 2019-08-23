@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>c00371.jpg</filename>
+	<path>C:\Users\Abhijeet Kharade\Desktop\NewData\temp\c00371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>171</ymin>
+			<xmax>219</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

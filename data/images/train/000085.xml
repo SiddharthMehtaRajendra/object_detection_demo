@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Resized_Smoking</folder>
+	<filename>000085.jpg</filename>
+	<path>C:\Users\Abhijeet Kharade\Desktop\NewData\Resized_Smoking\000085.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>92</ymin>
+			<xmax>95</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>186</ymin>
+			<xmax>213</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>
